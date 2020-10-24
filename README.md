@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX02",INDEPENDENT TV
 a0JYYnVRM2NsWldhdUZXYnZRSGIxRm1abFIyTDFBRE13RXpMMlJYTHJCbll2WXpNdVlqTnVFRE54NHlNd0V6THZvRGMwUkhh
 
